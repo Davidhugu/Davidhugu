@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm David Mwaura</h1>
 <h3 align="center">💻 Full-Stack Developer from Kenya 🇰🇪</h3>
 
@@ -63,5 +62,5 @@ Passionate about building modern web applications and creating software that sol
 ---
 
 <h3 align="center">🚀 Always Learning • Always Building 🚀</h3>
-```
+
 
