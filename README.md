@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Davidhug&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Davidhug?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to work" />
 </p>
 
 ---
@@ -65,9 +65,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidhug&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davidhugu/Davidhugu/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+> 🐍 The snake animation above needs a one-time GitHub Action setup — see the `snake.yml` file for the steps.
+
 ---
 
 ## 🌟 Featured Projects
+
+### 🍛 Lapaz Choma Vibes
+<p>
+  <img src="https://img.shields.io/github/stars/Davidhugu/lapaz-choma-vibes?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Davidhugu/lapaz-choma-vibes?style=flat-square" />
+</p>
+A live, actively-updated project.
+**Stack:** TypeScript
+[Source](https://github.com/Davidhugu/lapaz-choma-vibes)
 
 ### 🚗 Car Dealership Website
 Full-stack platform for browsing and managing vehicle listings.
@@ -118,4 +133,3 @@ Personal portfolio showcasing my work and skills.
 ---
 
 <h3 align="center">🚀 Always Learning • Always Building 🚀</h3>
-
