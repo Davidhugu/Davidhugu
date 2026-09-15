@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davidhug&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Davidhugu&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to work" />
 </p>
 
@@ -38,15 +38,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidhug&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidhugu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidhug&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidhugu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davidhug&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Davidhugu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Davidhug&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Davidhugu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidhug&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidhugu&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Personal portfolio showcasing my work and skills.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:davidhugu2007@gmail.com">
+  <a href="mailto:davidhugu2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/hood.ras" target="_blank">
