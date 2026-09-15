@@ -38,15 +38,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidhugu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidhugu&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidhugu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidhugu&layout=compact&theme=tokyonight&hide_border=true" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davidhugu&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Davidhugu&theme=tokyonight&no-frame=true&row=1&column=6" width="600" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Davidhugu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Davidhugu&theme=tokyonight&hide_border=true" width="500" />
 </p>
 
 ---
@@ -62,14 +62,18 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidhugu&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidhugu&theme=tokyo-night&hide_border=true" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davidhugu/Davidhugu/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://ghchart.rshah.org/409ba5/Davidhugu" alt="Contribution calendar" />
 </p>
 
-> 🐍 The snake animation above needs a one-time GitHub Action setup — see the `snake.yml` file for the steps.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davidhugu/Davidhugu/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="700" />
+</p>
+
+> 🐍 Generated daily by the GitHub Action in `snake.yml`.
 
 ---
 
@@ -84,27 +88,45 @@ A live, actively-updated project.
 **Stack:** TypeScript
 [Source](https://github.com/Davidhugu/lapaz-choma-vibes)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidhugu&repo=lapaz-choma-vibes&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 🚗 Car Dealership Website
 Full-stack platform for browsing and managing vehicle listings.
 **Stack:** Python, HTML, CSS, JavaScript
-<!-- [Live Demo](#) | [Source](#) -->
+[Source](https://github.com/Davidhugu/Japan-link-motors-LTD-MSA)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidhugu&repo=Japan-link-motors-LTD-MSA&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🛒 Grocery Management System
 Application for tracking inventory, stock levels, and orders.
 **Stack:** Python, Java
-<!-- [Live Demo](#) | [Source](#) -->
+[Source](https://github.com/Davidhugu/wa-ciru-grocery-)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidhugu&repo=wa-ciru-grocery-&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🤖 AI Projects
 Exploring automation and AI-powered tools and scripts.
 **Stack:** Python
-<!-- [Live Demo](#) | [Source](#) -->
+[Source](https://github.com/Davidhugu/jarvis)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidhugu&repo=jarvis&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🌐 Portfolio Website
 Personal portfolio showcasing my work and skills.
 **Stack:** HTML, CSS, JavaScript
-<!-- [Live Demo](#) | [Source](#) -->
+[Source](https://github.com/Davidhugu/portfolio)
 
-> 💡 Add your repo/live-demo links above (replace the `#` placeholders) so visitors can click straight through.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidhugu&repo=portfolio&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -116,9 +138,20 @@ Personal portfolio showcasing my work and skills.
 
 ---
 
+## 💭 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily dev quote" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/Davidhugu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="mailto:davidhugu2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
